@@ -1,8 +1,1 @@
-### Hi there 👋
-
-**Serban199/Serban199** 
-
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on future projects.
-
+Interschem is a project fully made in C++, tailored to interpret logical structures and solve mathematical equations with unknown values. It comprises various blocks dedicated to initialization, attribute definition, assignment execution, calculation procedures, comparisons, and other important functions.
